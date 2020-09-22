@@ -1,4 +1,5 @@
 # Trivia Game C
+[Requirements](https://github.com/cristysandu/Trivia-Game-C/blob/master/Tema2-Trivia_final.pdf)
 
 - Cerinta 1 - la aceasta cerinta am mai implementat pe langa cele 3 optiuni si optinea de score unde se stocheaza scorul maxim si optiunea de help care explica utilizatorului uman cum sa joace jocul , ca sa mearga utilizate tastele in joc tasta caps lock trebuie sa fie oprita.
 Optiunea New Game apeleaza functia newgame care incepe o noua sesiune de joc care poate fi intrerupta prin apasarea tastei 'q' in cazul in care se salveaza starea de joc curenta 
